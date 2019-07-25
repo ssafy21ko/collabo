@@ -20,3 +20,8 @@ Github `README.md` 같이 만들기
 컨플릭트 고고고고고!
 
 ## 컨플릭트란?
+
+## 3. 협업시작
+`test.py`
+
+`print('hello')`
